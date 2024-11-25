@@ -1,4 +1,5 @@
-import styles from '../styles/Presente.module.css'
+import React from "react"
+import styles from "../styles/Presente.module.css"
 
 export default function Presente() {
     return (
